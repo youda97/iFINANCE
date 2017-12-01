@@ -1,0 +1,64 @@
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\bin\Debug\iFINANCE.exe.config
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\bin\Debug\iFINANCE.exe
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\bin\Debug\iFINANCE.pdb
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.csprojResolveAssemblyReference.cache
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.Properties.Resources.resources
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.csproj.GenerateResource.Cache
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.exe
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.pdb
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.about.resources
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.MainForm.resources
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\bin\Debug\EntityFramework.dll
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\bin\Debug\EntityFramework.SqlServer.dll
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\bin\Debug\EntityFramework.xml
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\1\Solution\iFINANCE\iFINANCE\bin\Debug\EntityFramework.SqlServer.xml
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.exe
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.pdb
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\bin\Debug\iFINANCE.exe
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\bin\Debug\iFINANCE.pdb
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\bin\Debug\EntityFramework.dll
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\bin\Debug\EntityFramework.SqlServer.dll
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\bin\Debug\EntityFramework.xml
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\bin\Debug\EntityFramework.SqlServer.xml
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.csprojResolveAssemblyReference.cache
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.about.resources
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.MainForm.resources
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.Properties.Resources.resources
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.csproj.GenerateResource.Cache
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\bin\Debug\iFINANCE.mdf
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\bin\Debug\iFINANCE_log.ldf
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\2\Solution\iFINANCE\iFINANCE\bin\Debug\iFINANCE.exe.config
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\bin\Debug\iFINANCE.exe.config
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.exe
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.pdb
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\bin\Debug\iFINANCE.exe
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\bin\Debug\iFINANCE.pdb
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\bin\Debug\EntityFramework.dll
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\bin\Debug\EntityFramework.SqlServer.dll
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\bin\Debug\EntityFramework.xml
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\bin\Debug\EntityFramework.SqlServer.xml
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.csprojResolveAssemblyReference.cache
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.about.resources
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.MainForm.resources
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.Properties.Resources.resources
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.csproj.GenerateResource.Cache
+E:\ECEUWO\Teaching\Fall2016\SE2203A\Assignments\3\Solution\iFINANCE\iFINANCE\obj\Debug\iFINANCE.AccountsGroupsForm.resources
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\bin\Debug\iFINANCE.exe.config
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\obj\Debug\iFINANCE.exe
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\obj\Debug\iFINANCE.pdb
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\bin\Debug\iFINANCE.exe
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\bin\Debug\iFINANCE.pdb
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\bin\Debug\EntityFramework.dll
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\bin\Debug\EntityFramework.xml
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\obj\Debug\iFINANCE.about.resources
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\obj\Debug\iFINANCE.AccountsGroupsForm.resources
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\obj\Debug\iFINANCE.ChartofAccountsForm.resources
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\obj\Debug\iFINANCE.MainForm.resources
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\obj\Debug\iFINANCE.Properties.Resources.resources
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\obj\Debug\iFINANCE.csproj.GenerateResource.Cache
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\iFINANCE\obj\Debug\iFINANCE.csprojResolveAssemblyReference.cache
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\youda_iFINANCE_assignment3\iFINANCE\bin\Debug\iFINANCE.exe.config
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\youda_iFINANCE_assignment3\iFINANCE\obj\Debug\iFINANCE.exe
+C:\Users\Yousef\Desktop\Yousef's Second year\SE 2203a\Assignment 3\youda_iFINANCE_assignment3\iFINANCE\obj\Debug\iFINANCE.pdb
